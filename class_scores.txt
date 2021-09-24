@@ -1,0 +1,12 @@
+ProcessEngFundamentals 92
+ProcessFluidFlow 78
+Mathematics1 86
+ComputationalMethods 87
+ThermodynamicsFundamentals 97
+ChemicalThermodynamics 93
+Chemistry 80
+Mathematics2 80
+ProcessHeatTransfer 90
+EngineeringBiotechnology 89
+LaboratoryProjects 93
+DesignProject 74.81
